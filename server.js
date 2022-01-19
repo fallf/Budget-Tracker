@@ -18,6 +18,8 @@ app.use(express.static("public"));
 
 mongoose.connect(mongoLink, {
   useNewUrlParser: true,
+  useFindAndModify: false,
+  useCreateIndex: true,
   useFindAndModify: false
 });
 
