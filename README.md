@@ -52,7 +52,6 @@ Run the following commands in the command-line in the root of the folder
 ## License
 
 This application is rendered under MIT
-
 ## Technology Used
 
 • Javascript
